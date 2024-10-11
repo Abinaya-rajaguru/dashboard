@@ -47,11 +47,17 @@ ASSUMPTIONS:
 Here are some assumptions for each feature:
 
 Product Listing and Overview: All products are displayed in a table format with essential details like name, price, stock, and category.
+
 Add New Product Functionality: The form for adding products is simple, with fields like product name, price, category, and stock quantity.
+
 Delete Product Functionality: Users can delete a product with a single click, and a confirmation prompt ensures accidental deletions are avoided.
+
 Product Filtering: Filters are available for attributes such as price range, stock status, or product category, and they are updated dynamically.
+
 Search Products by Name: Search functionality operates in real-time, filtering the product table as the user types.
+
 Product Stock Visualization: A bar chart or similar visual is used to represent stock levels, with color-coded indicators for low stock.
+
 Responsive Design: The table adjusts for different screen sizes, ensuring no horizontal scrolling on mobile devices, and all features remain accessible on smaller screens.
 
 
