@@ -46,3 +46,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 
 ![Screenshot (43)](https://github.com/user-attachments/assets/1bfd5bb7-ba0e-4867-b3aa-5a8a733422fa)
+
+
+challenges :
+I have designed the frontend  efficiently. i am practicing more to get familier with the backend
