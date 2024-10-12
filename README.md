@@ -9,11 +9,9 @@ This project is a Product Management Dashboard designed specifically for admin u
 - Add New Product Functionality
 - Delete Product Functionality
 - Product Filtering
-  Search Products by Name  
-  
-  Product Stock Visualization
-
-  Responsive Design
+- Search Products by Name  
+- Product Stock Visualization
+- Responsive Design
 
 
 
@@ -68,5 +66,5 @@ Product Stock Visualization: A bar chart or similar visual is used to represent 
 Responsive Design: The table adjusts for different screen sizes, ensuring no horizontal scrolling on mobile devices, and all features remain accessible on smaller screens.
 
 
-Challenges : I have designed the frontend efficiently. I am practicing more to get familier with the backend
+CHALLENGES : I have designed the frontend efficiently. I am practicing more to get familier with the backend
 
